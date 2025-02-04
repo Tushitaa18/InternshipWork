@@ -1,5 +1,5 @@
 # Tushita_cic_2024_intern
-This is my contribution durin g the internship
+This is my contribution in the Project during the summer internship.
 This project, titled Customer Purchase Behaviour Analysis and Visualization, focuses on 
 transforming raw customer data into meaningful insights that businesses can use to better 
 understand their customers. The key objective of this project is to analyse customer purchasing 
